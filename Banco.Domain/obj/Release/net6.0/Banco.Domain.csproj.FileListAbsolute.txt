@@ -1,0 +1,14 @@
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\bin\Release\net6.0\Banco.Domain.exe
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\bin\Release\net6.0\Banco.Domain.deps.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\bin\Release\net6.0\Banco.Domain.runtimeconfig.json
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\bin\Release\net6.0\Banco.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\bin\Release\net6.0\Banco.Domain.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\Banco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\Banco.Domain.AssemblyInfoInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\Banco.Domain.AssemblyInfo.cs
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\Banco.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\Banco.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\refint\Banco.Domain.dll
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\Banco.Domain.pdb
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\Banco.Domain.genruntimeconfig.cache
+C:\Users\Odiseo\Desktop\Todo\Backend Proyects\Banco\Banco.Domain\obj\Release\net6.0\ref\Banco.Domain.dll
